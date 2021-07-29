@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    color: rgb(6, 6, 19);
+    text-align: center;
+    position: static;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+h2{
+    color: rgb(6, 6, 19);
+    text-align: center;
+    position: static;
+    font-family: 'Times New Roman', Times, serif;
+}
